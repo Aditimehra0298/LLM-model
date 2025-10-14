@@ -1,0 +1,132 @@
+[
+  {
+    "clause": "5.1",
+    "description": "Leadership and commitment",
+    "applicability": "All organizations",
+    "critical_question": "How should top management demonstrate leadership and commitment?",
+    "options": [
+      {
+        "text": "Top management shall demonstrate leadership and commitment with respect to the FSMS",
+        "gap": "Active leadership and commitment"
+      },
+      {
+        "text": "Management delegates all food safety responsibilities",
+        "gap": "Delegation without oversight"
+      },
+      {
+        "text": "Management addresses food safety only during audits",
+        "gap": "Audit-driven approach to food safety"
+      },
+      {
+        "text": "Management focuses only on production targets",
+        "gap": "Production-focused priorities"
+      }
+    ],
+    "learning_objective": "Understand leadership requirements",
+    "discussion_objective": "Discuss leadership behaviors for food safety"
+  },
+  {
+    "clause": "8.7",
+    "description": "Control of monitoring and measuring",
+    "applicability": "All organizations",
+    "critical_question": "How should monitoring and measuring equipment be controlled?",
+    "options": [
+      {
+        "text": "The organization shall provide evidence that monitoring and measuring equipment is fit for purpose",
+        "gap": "Comprehensive calibration system"
+      },
+      {
+        "text": "Equipment is calibrated only for critical measurements",
+        "gap": "Limited scope of calibration"
+      },
+      {
+        "text": "Equipment is calibrated only during audit preparation",
+        "gap": "Audit-driven calibration"
+      },
+      {
+        "text": "The organization has minimal calibration controls",
+        "gap": "Minimal calibration controls"
+      }
+    ],
+    "learning_objective": "Understand equipment control requirements",
+    "discussion_objective": "Discuss effective calibration management"
+  },
+  {
+    "clause": "8.6",
+    "description": "Updating the information specifying the PRPs and the hazard control plan",
+    "applicability": "All organizations",
+    "critical_question": "How should system information be updated?",
+    "options": [
+      {
+        "text": "The organization shall update preliminary information and documents specifying PRPs and hazard control plan",
+        "gap": "Regular systematic updates"
+      },
+      {
+        "text": "Information is updated only when processes change significantly",
+        "gap": "Limited updates for major changes only"
+      },
+      {
+        "text": "Information is updated only during audit preparation",
+        "gap": "Audit-driven updates"
+      },
+      {
+        "text": "The organization rarely updates system information",
+        "gap": "Minimal system information updates"
+      }
+    ],
+    "learning_objective": "Understand system update requirements",
+    "discussion_objective": "Discuss effective information management"
+  },
+  {
+    "clause": "7.1",
+    "description": "Resources",
+    "applicability": "All organizations",
+    "critical_question": "What must be considered for resources?",
+    "options": [
+      {
+        "text": "The organization shall determine and provide necessary resources for the FSMS",
+        "gap": "Comprehensive resource planning"
+      },
+      {
+        "text": "Resources are provided only for production",
+        "gap": "Production-focused resource allocation"
+      },
+      {
+        "text": "Resources are provided only during audit preparation",
+        "gap": "Audit-driven resource allocation"
+      },
+      {
+        "text": "Resources are provided only when problems arise",
+        "gap": "Reactive resource allocation"
+      }
+    ],
+    "learning_objective": "Understand resource management requirements",
+    "discussion_objective": "Discuss resource planning strategies"
+  },
+  {
+    "clause": "9.3",
+    "description": "Management review",
+    "applicability": "All organizations",
+    "critical_question": "How should management review the FSMS?",
+    "options": [
+      {
+        "text": "Management shall review the FSMS at planned intervals considering specific inputs and outputs",
+        "gap": "Comprehensive management review process"
+      },
+      {
+        "text": "Reviews are conducted only when problems arise",
+        "gap": "Reactive approach to reviews"
+      },
+      {
+        "text": "Reviews focus only on nonconformities",
+        "gap": "Limited scope of reviews"
+      },
+      {
+        "text": "The organization does not conduct regular management reviews",
+        "gap": "Minimal management review process"
+      }
+    ],
+    "learning_objective": "Understand management review requirements",
+    "discussion_objective": "Discuss effective review processes"
+  }
+]

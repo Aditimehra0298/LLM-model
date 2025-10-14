@@ -1,0 +1,80 @@
+[
+  {
+    "clause": "7.2",
+    "description": "Competence",
+    "applicability": "All organizations",
+    "critical_question": "How should personnel competence be managed?",
+    "options": [
+      {
+        "text": "The organization shall determine necessary competence and ensure personnel are competent",
+        "gap": "Comprehensive competence management"
+      },
+      {
+        "text": "Competence is determined only for technical positions",
+        "gap": "Limited scope of competence management"
+      },
+      {
+        "text": "Training is provided only for regulatory compliance",
+        "gap": "Compliance-driven training only"
+      },
+      {
+        "text": "Training is provided only when problems arise",
+        "gap": "Reactive approach to training"
+      }
+    ],
+    "learning_objective": "Understand competence requirements",
+    "discussion_objective": "Discuss effective competence management"
+  },
+  {
+    "clause": "2",
+    "description": "Normative References",
+    "applicability": "All organizations",
+    "critical_question": "Which standard forms the basis for FSSC 22000?",
+    "options": [
+      {
+        "text": "ISO 22000 is the core standard for FSSC 22000",
+        "gap": "Complete understanding of normative structure"
+      },
+      {
+        "text": "HACCP is the only standard referenced",
+        "gap": "Incomplete understanding of standard relationships"
+      },
+      {
+        "text": "ISO 9001 is the core standard",
+        "gap": "Incorrect understanding of core standard"
+      },
+      {
+        "text": "BRC is the core standard",
+        "gap": "Confusion with other certification schemes"
+      }
+    ],
+    "learning_objective": "Understand normative references",
+    "discussion_objective": "Discuss relationship between standards"
+  },
+  {
+    "clause": "FSSC Additional 5",
+    "description": "Transport and Delivery",
+    "applicability": "All organizations",
+    "critical_question": "How should transport and delivery be managed?",
+    "options": [
+      {
+        "text": "The organization shall implement measures to prevent contamination during transport",
+        "gap": "Comprehensive transport management system"
+      },
+      {
+        "text": "Transport controls focus only on temperature",
+        "gap": "Limited scope of transport controls"
+      },
+      {
+        "text": "Transport is addressed only during audits",
+        "gap": "Audit-driven transport management"
+      },
+      {
+        "text": "The organization has minimal transport controls",
+        "gap": "Minimal transport controls"
+      }
+    ],
+    "learning_objective": "Understand transport requirements",
+    "discussion_objective": "Discuss effective transport management"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "clause": "5.2",
+    "description": "Information security policy - Top management shall establish an information security policy",
+    "critical_question": "What are the various mechanisms adopted by the organization to communicate the IS policy within the organization?",
+    "options": [
+      "Basic information security policy exists with minimal communication",
+      "Policy is  well defined and  documented covering several key aspects of ISMS and IS controls which the top management is committed to  and communicated through standard channels",
+      "Policy is  having all implemented controls which the organization wants stake holders to know regularly reviewed,  and aspects of ISMS which the top managment wants to focus upon . It is updated, and communicated through multiple channels",
+      "Policy is  having all implemented controls which the organization wants stake holders to know regularly reviewed,  and aspects of ISMS which the top managment wants to focus upon . It is updated, and communicated through multiple channels. Policy is fully integrated with business objectives, regularly assessed for effectiveness, and continuously improved. Policies communication is integrated with the induction program and its understanding is assessed throughout the organizations and its key supply chain "
+    ],
+    "learning_objective_workshop": "LO 6: The  candidate should be able to assess whether the Policy is well defined and whether it is servicing the strategic purpose of the organzation and the requirements of ISO 27001:2022",
+    "discussion_object_workshop": NaN,
+    "learning_objective_self_paced": NaN,
+    "discussion_object_self_paced": NaN,
+    "gaps": [
+      "Develop comprehensive information security policy",
+      "Establish formal communication mechanisms",
+      "Implement regular policy review and update processes",
+      "Integrate policy with strategic objectives and measure effectiveness"
+    ]
+  },
+  {
+    "clause": "4.1",
+    "description": "Understanding the organization and its context - The organization shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its ISMS",
+    "critical_question": "Has the organization identified and documented the list of external and internal issues?",
+    "options": [
+      "My organization is aware of the internal and external issues but not documented them",
+      "My organization has documented all possible internal and external issues in one format with the help of a brain storming session",
+      "The enlisted internal and external issues are linked to ISO 27002 controls and also our internal process related to them and are reviewed on a yearly basis",
+      "Internal and external issues are identified, enlisted and linked to ISO 27002 controls and also graded with regards to their ability to influence our organization success and this grading is then linked to the risk analysis elements"
+    ],
+    "learning_objective_workshop": "LO 1: The candidate should be able to make an assessment of what is an internal issue and what is an external issue",
+    "discussion_object_workshop": "A cases study  to identify Internal and external issue ",
+    "learning_objective_self_paced": "candidate should be able to  differentiate between a internal and external issue  ",
+    "discussion_object_self_paced": "list of issues\nReview a sample documented context of organization and internal/external issues, evaluate linkages to risk assessment and suggest enhancements for completeness and strategic alignment.",
+    "gaps": [
+      "GAPS: What the organization needs to do in order to move to maturity 4",
+      "GAPS: What the organization needs to do in order to move to maturity 4",
+      "GAPS: What the organization needs to do in order to move to maturity 4",
+      "GAPS: What the organization needs to do in order to move to maturity 4"
+    ]
+  }
+]

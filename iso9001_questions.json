@@ -1,0 +1,40 @@
+[
+    {
+        "clause": 8.1,
+        "description": "Operational planning",
+        "critical_question": "What is required for operational planning?",
+        "options": [
+            "Plan and control processes to meet requirements",
+            "Planning only for manufacturing processes",
+            "Focus exclusively on product specifications",
+            "Planning only when introducing new products"
+        ],
+        "learning_objective": "Understand process planning requirements",
+        "discussion_object": "Discuss operational planning methods",
+        "gaps": [
+            "Incomplete process planning",
+            "Limited scope of planning",
+            "Disconnect between risk and planning",
+            "Lack of process controls"
+        ]
+    },
+    {
+        "clause": 6.1,
+        "description": "Risks and opportunities",
+        "critical_question": "How should organization approach risk-based thinking?",
+        "options": [
+            "Identify risks related to context and plan actions",
+            "Focus only on preventing product nonconformities",
+            "Risk assessment only during management review",
+            "Document all risks regardless of likelihood"
+        ],
+        "learning_objective": "Understand risk-based thinking principles",
+        "discussion_object": "Discuss risk identification methods",
+        "gaps": [
+            "Limited scope of assessment",
+            "Reactive approach to risk",
+            "Inconsistent timing of assessments",
+            "Disproportionate documentation"
+        ]
+    }
+]

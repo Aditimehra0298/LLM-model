@@ -1,0 +1,80 @@
+[
+  {
+    "clause": "8.7",
+    "description": "Control of monitoring and measuring",
+    "applicability": "All organizations",
+    "critical_question": "How should monitoring and measuring equipment be controlled?",
+    "options": [
+      {
+        "text": "The organization shall provide evidence that monitoring and measuring equipment is fit for purpose",
+        "gap": "Comprehensive calibration system"
+      },
+      {
+        "text": "Equipment is calibrated only for critical measurements",
+        "gap": "Limited scope of calibration"
+      },
+      {
+        "text": "Equipment is calibrated only during audit preparation",
+        "gap": "Audit-driven calibration"
+      },
+      {
+        "text": "The organization has minimal calibration controls",
+        "gap": "Minimal calibration controls"
+      }
+    ],
+    "learning_objective": "Understand equipment control requirements",
+    "discussion_objective": "Discuss effective calibration management"
+  },
+  {
+    "clause": "7.4",
+    "description": "Communication",
+    "applicability": "All organizations",
+    "critical_question": "What communication is required by ISO 22000:2018?",
+    "options": [
+      {
+        "text": "The organization shall determine internal and external communications relevant to the FSMS",
+        "gap": "Comprehensive communication system"
+      },
+      {
+        "text": "Communication is determined only for customer interactions",
+        "gap": "Customer-focused communication only"
+      },
+      {
+        "text": "Communication occurs only during audit preparation",
+        "gap": "Audit-driven communication"
+      },
+      {
+        "text": "The organization has no formal communication process",
+        "gap": "No systematic communication process"
+      }
+    ],
+    "learning_objective": "Understand communication requirements",
+    "discussion_objective": "Discuss effective communication strategies"
+  },
+  {
+    "clause": "7.1",
+    "description": "Resources",
+    "applicability": "All organizations",
+    "critical_question": "What must be considered for resources?",
+    "options": [
+      {
+        "text": "The organization shall determine and provide necessary resources for the FSMS",
+        "gap": "Comprehensive resource planning"
+      },
+      {
+        "text": "Resources are provided only for production",
+        "gap": "Production-focused resource allocation"
+      },
+      {
+        "text": "Resources are provided only during audit preparation",
+        "gap": "Audit-driven resource allocation"
+      },
+      {
+        "text": "Resources are provided only when problems arise",
+        "gap": "Reactive resource allocation"
+      }
+    ],
+    "learning_objective": "Understand resource management requirements",
+    "discussion_objective": "Discuss resource planning strategies"
+  }
+]

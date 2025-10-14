@@ -1,0 +1,97 @@
+[
+    {
+        "clause": 5.1,
+        "description": "Leadership and commitment",
+        "critical_question": "How does top management promote customer focus?",
+        "options": [
+            "Top management ensures customer requirements are determined and met with aim of enhancing satisfaction",
+            "Top management delegates customer focus to sales department",
+            "Top management addresses customer issues only when complaints arise",
+            "Top management does not actively promote customer focus"
+        ],
+        "learning_objective": "Understand customer focus requirements",
+        "discussion_object": "Discuss methods for promoting customer focus",
+        "gaps": [
+            "Delegation of customer focus without oversight",
+            "Limited focus on customer requirements",
+            "Reactive approach to customer issues",
+            "No active promotion of customer focus"
+        ]
+    },
+    {
+        "clause": 9.1,
+        "description": "Monitoring and measurement",
+        "critical_question": "What must be determined for monitoring?",
+        "options": [
+            "Determine what to monitor and when to analyze results",
+            "Monitor only product quality",
+            "Monitor only processes with problems",
+            "Measure everything without specific determination"
+        ],
+        "learning_objective": "Understand monitoring requirements",
+        "discussion_object": "Discuss performance measurement systems",
+        "gaps": [
+            "No clear monitoring needs",
+            "Limited scope of monitoring",
+            "Inconsistent monitoring timing",
+            "Lack of results analysis"
+        ]
+    },
+    {
+        "clause": 5.1,
+        "description": "Leadership and commitment",
+        "critical_question": "How does top management promote customer focus?",
+        "options": [
+            "Top management ensures customer requirements are determined and met with aim of enhancing satisfaction",
+            "Top management delegates customer focus to sales department",
+            "Top management addresses customer issues only when complaints arise",
+            "Top management does not actively promote customer focus"
+        ],
+        "learning_objective": "Understand customer focus requirements",
+        "discussion_object": "Discuss methods for promoting customer focus",
+        "gaps": [
+            "Delegation of customer focus without oversight",
+            "Limited focus on customer requirements",
+            "Reactive approach to customer issues",
+            "No active promotion of customer focus"
+        ]
+    },
+    {
+        "clause": 5.2,
+        "description": "Quality policy",
+        "critical_question": "What are key requirements for quality policy?",
+        "options": [
+            "Policy appropriate to purpose with framework for objectives",
+            "Policy only states compliance with ISO 9001",
+            "Policy focuses exclusively on product quality",
+            "Policy is documented but not communicated"
+        ],
+        "learning_objective": "Understand purpose of quality policy",
+        "discussion_object": "Discuss how policy supports strategy",
+        "gaps": [
+            "Policy doesn't align with purpose",
+            "Policy lacks framework for objectives",
+            "Policy doesn't address improvement",
+            "Policy exists but not communicated"
+        ]
+    },
+    {
+        "clause": 8.1,
+        "description": "Operational planning",
+        "critical_question": "What is required for operational planning?",
+        "options": [
+            "Plan and control processes to meet requirements",
+            "Planning only for manufacturing processes",
+            "Focus exclusively on product specifications",
+            "Planning only when introducing new products"
+        ],
+        "learning_objective": "Understand process planning requirements",
+        "discussion_object": "Discuss operational planning methods",
+        "gaps": [
+            "Incomplete process planning",
+            "Limited scope of planning",
+            "Disconnect between risk and planning",
+            "Lack of process controls"
+        ]
+    }
+]
