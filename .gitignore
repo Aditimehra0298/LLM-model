@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+
+# IDE
+.vscode/.cursor/
+
+# Data and artifacts
+output/
+*.pt
+*.bin
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/\noutput/
