@@ -1,0 +1,54 @@
+[33m9d45795[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Remove output artifacts from version control; add output/ to .gitignore
+ .gitignore                     |     24 [32m+[m
+ output/config.json             |      7 [31m-[m
+ output/merges.txt              |  50001 [31m--------[m
+ output/model.pt                |      3 [31m-[m
+ output/special_tokens_map.json |      6 [31m-[m
+ output/tokenizer.json          | 250320 [31m--------------------------------------[m
+ output/tokenizer_config.json   |     21 [31m-[m
+ output/vocab.json              |      1 [31m-[m
+ 8 files changed, 24 insertions(+), 300359 deletions(-)
+[33m8ef388a[m Add model file via Git LFS
+ output/model.pt | Bin [31m282782235[m -> [32m134[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m7512b23[m Track .pt files using Git LFS
+ .gitattributes | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[33m9c2fdbe[m a
+ FSSC 22000 questions.csv                           |     36 [32m+[m
+ FSSC-22000-Scheme-Version-6-.pdf                   |    Bin [31m0[m -> [32m917613[m bytes
+ ISO 22000 questions.csv                            |     34 [32m+[m
+ ...01 internal audit Tool development - Sheet5.csv |     64 [32m+[m
+ ISO 9001 questions.csv                             |     37 [32m+[m
+ ISO-22000-2018-Standard.pdf                        |    Bin [31m0[m -> [32m888407[m bytes
+ README_FSSC22000.md                                |    114 [32m+[m
+ README_ISO22000.md                                 |    107 [32m+[m
+ README_ISO9001.md                                  |     74 [32m+[m
+ __pycache__/data_utils.cpython-313.pyc             |    Bin [31m0[m -> [32m4364[m bytes
+ __pycache__/inference.cpython-313.pyc              |    Bin [31m0[m -> [32m3965[m bytes
+ __pycache__/model.cpython-313.pyc                  |    Bin [31m0[m -> [32m10350[m bytes
+ app.py                                             |    253 [32m+[m
+ data_utils.py                                      |     81 [32m+[m
+ fssc22000_question_generator.py                    |    341 [32m+[m
+ fssc22000_questions.json                           |     80 [32m+[m
+ inference.py                                       |    100 [32m+[m
+ iso22000_question_generator.py                     |    341 [32m+[m
+ iso22000_questions.json                            |     80 [32m+[m
+ iso22000_questions_new.json                        |    132 [32m+[m
+ iso27001_question_generator.py                     |    401 [32m+[m
+ iso9001_question_generator.py                      |    249 [32m+[m
+ iso9001_questions.json                             |     40 [32m+[m
+ iso9001_questions_expanded.json                    |     97 [32m+[m
+ model.py                                           |    162 [32m+[m
+ output/config.json                                 |      7 [32m+[m
+ output/merges.txt                                  |  50001 [32m++++[m
+ output/model.pt                                    |    Bin [31m0[m -> [32m282782235[m bytes
+ output/special_tokens_map.json                     |      6 [32m+[m
+ output/tokenizer.json                              | 250320 [32m++++++++++++++++++[m
+ output/tokenizer_config.json                       |     21 [32m+[m
+ output/vocab.json                                  |      1 [32m+[m
+ questions.json                                     |     44 [32m+[m
+ requirements.txt                                   |      8 [32m+[m
+ sample_data.txt                                    |      9 [32m+[m
+ train.py                                           |    132 [32m+[m
+ 36 files changed, 303372 insertions(+)
